@@ -49,5 +49,5 @@ h2 {
 
 .ejercicio-2 .container {
   flex-direction: row;
-  justify-content: space-between;
+  align-items: center;
 }
