@@ -61,6 +61,7 @@ h2 {
 
 .ejercicio-5 .container {
   flex-direction: column;
+  align-items: center;
 }
 
 .ejercicio-6 .container {
