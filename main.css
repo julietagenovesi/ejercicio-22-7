@@ -48,8 +48,7 @@ h2 {
 }
 
 .ejercicio-2 .container {
-  flex-direction: row;
-  align-items: center;
+  justify-content: center;
 }
 
 .ejercicio-3 .container {
