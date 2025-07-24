@@ -56,8 +56,7 @@ h2 {
 }
 
 .ejercicio-4 .container {
-  flex-direction: row-reverse;
-  justify-content: start;
+  flex-direction: column-reverse;
 }
 
 .ejercicio-5 .container {
