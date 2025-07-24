@@ -60,3 +60,8 @@ h2 {
   flex-direction: row-reverse;
   justify-content: start;
 }
+
+.ejercicio-5 .container {
+  flex-direction: column;
+  justify-content: center;
+}
