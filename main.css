@@ -15,7 +15,7 @@ h2 {
 .container {
   border: 2px dashed #ccc;
   padding: 30px;
-  margin: 10px 0px;
+  margin: 10px 0;
   height: 150px;
   background: #f9f9f9;
 }
@@ -45,5 +45,9 @@ h2 {
 .ejercicio-1 .container {
   justify-content: center;
   align-items: center;
+}
 
+.ejercicio-2 .container {
+  flex-direction: row;
+  justify-content: space-between;
 }
