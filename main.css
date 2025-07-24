@@ -76,3 +76,7 @@ h2 {
 .ejercicio-8 .blue {
   width: 100px
 }
+
+.ejercicio-9 .container {
+  flex-wrap: wrap;
+}
