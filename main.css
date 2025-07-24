@@ -55,3 +55,8 @@ h2 {
 .ejercicio-3 .container {
   justify-content: space-around;
 }
+
+.ejercicio-4 .container {
+  flex-direction: row-reverse;
+  justify-content: start;
+}
