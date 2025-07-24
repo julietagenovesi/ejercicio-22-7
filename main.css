@@ -63,5 +63,8 @@ h2 {
 
 .ejercicio-5 .container {
   flex-direction: column;
-  justify-content: center;
+}
+
+.ejercicio-6 .container {
+  justify-content: flex-end;
 }
