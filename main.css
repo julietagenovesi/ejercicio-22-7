@@ -51,3 +51,7 @@ h2 {
   flex-direction: row;
   align-items: center;
 }
+
+.ejercicio-3 .container {
+  justify-content: space-around;
+}
