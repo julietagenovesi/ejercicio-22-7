@@ -68,3 +68,7 @@ h2 {
 .ejercicio-6 .container {
   justify-content: flex-end;
 }
+
+.ejercicio-7 .container {
+  align-items: center;
+}
