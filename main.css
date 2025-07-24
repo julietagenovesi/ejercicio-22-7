@@ -15,7 +15,7 @@ h2 {
 .container {
   border: 2px dashed #ccc;
   padding: 30px;
-  margin: 10px 0;
+  margin: 10px 0px;
   height: 150px;
   background: #f9f9f9;
 }
@@ -36,4 +36,14 @@ h2 {
 
 .blue {
   background: blue;
+}
+
+.container {
+  display: flex
+}
+
+.ejercicio-1 .container {
+  justify-content: center;
+  align-items: center;
+
 }
